@@ -136,3 +136,7 @@ syllabus/classes/class3/tmp.py
 
 # Solutions to assignments
 solutions/*
+
+# Setup
+setup.sh
+git_token.txt
