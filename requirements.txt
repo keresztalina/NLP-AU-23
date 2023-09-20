@@ -1,0 +1,7 @@
+spacy==3.6.1
+pandas
+numpy
+seaborn
+matplotlib
+collections
+sklearn
